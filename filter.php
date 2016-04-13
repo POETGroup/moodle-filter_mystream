@@ -23,9 +23,3 @@
  * @copyright  2016 The POET Group
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-
-$plugin->version = 2016030100;
-$plugin->release = 'POET Alpha 0';
-$plugin->component = 'filter_mystream';
-$plugin->requires = 2015111600;
-$plugin->maturity = 'MATURITY_ALPHA';
